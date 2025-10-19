@@ -1,7 +1,7 @@
 # Forecasting-with-ARIMA-and-SARIMA
 
 
-This repository contains a single R script (`prac 10.R`) demonstrating basic time series modeling and forecasting using the `forecast` package. The script covers simple examples of AR, MA, ARMA, ARIMA and SARIMA models and produces model summaries and forecasts with plots.
+This repository contains a single R script (` Forecasting-with-ARIMA-and-SARIMA`) demonstrating basic time series modeling and forecasting using the `forecast` package. The script covers simple examples of AR, MA, ARMA, ARIMA and SARIMA models and produces model summaries and forecasts with plots.
 
 ## Files
 - `Forecasting with ARIMA and SARIMA` — R script with examples:
