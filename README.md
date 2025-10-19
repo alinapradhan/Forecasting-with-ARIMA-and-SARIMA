@@ -4,7 +4,7 @@
 This repository contains a single R script (`prac 10.R`) demonstrating basic time series modeling and forecasting using the `forecast` package. The script covers simple examples of AR, MA, ARMA, ARIMA and SARIMA models and produces model summaries and forecasts with plots.
 
 ## Files
-- `prac 10.R` — R script with examples:
+- `Forecasting with ARIMA and SARIMA` — R script with examples:
   - Creates a small toy sales time series
   - Fits AR(1), MA(1), ARMA(1,1), ARIMA(1,1,1)
   - Demonstrates a SARIMA model on a monthly ice cream sales example
@@ -25,12 +25,12 @@ Open R (or RStudio) and run the script:
 
 Interactive (recommended, for plots):
 ```r
-source("prac 10.R")
+source("FORECASTING WITH ARIMA AND SARIMA")
 ```
 
 Non-interactive (plots may not display depending on environment):
 ```bash
-Rscript "prac 10.R"
+Rscript " Forecasting-with-ARIMA-and-SARIMA"
 ```
 
 The script prints model summary output to the console and opens plot windows for each fitted model's forecasts.
